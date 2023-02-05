@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi visitor 👋
 I'm currently learning Text Analysis in Python
 
 <!--
